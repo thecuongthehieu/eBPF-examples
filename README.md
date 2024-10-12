@@ -18,3 +18,8 @@ make install
 cd ../..
 ```
 
+### Watch the output 
+
+```sh
+cat /sys/kernel/tracing/trace_pipe.
+```
